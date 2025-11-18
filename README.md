@@ -1,2 +1,0 @@
-# fatorial
-fatorial js fravio
